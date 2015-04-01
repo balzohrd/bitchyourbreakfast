@@ -1,4 +1,4 @@
-# Sendapetrock.com
+# bitch your breakfast
 
 > Website
 
@@ -9,5 +9,3 @@
 # creates a browser.js
 $ npm run browser
 ```
-
-
