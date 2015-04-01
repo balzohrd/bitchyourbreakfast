@@ -6,7 +6,7 @@
   "repository": "balzohrd/sendapetrock",
   "license": "Public",
   "files": [
-    "index.html"
+    "index.js"
   ],
   "dependencies": {
     "express":"*"
@@ -23,7 +23,7 @@
     "time-grunt": "^1.1.0"
   },
   "scripts": {
-    "start":"node index.html",
-    "browser": "browserify index.html > browser.js"
+    "start":"node index.js",
+    "browser": "browserify index.js > browser.js"
   }
 }
