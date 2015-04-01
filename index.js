@@ -1,7 +1,7 @@
 'use strict';
 
-var express=require('express');
-var app=express();
+var express=require('express'),
+app=express(),
 path=require('path');
 
 app.get('/', function(req, res){
